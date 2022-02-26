@@ -1,8 +1,4 @@
 <?php
-/*
-by KasperTP 
-Ch : @dev_kasper and @errorphp
-*/
 ob_start();
 define("API_KEY", "توكن البوت");
 function bot($method,$datas=[]){
